@@ -1,0 +1,8 @@
+package ex1.Composition.entities.enums;
+
+public enum OrderStatus {
+    PENDING_PAYMENT,
+    PROCESSING,
+    SHIPPED,
+    DELIVERED;
+}
