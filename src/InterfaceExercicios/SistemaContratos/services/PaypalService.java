@@ -1,4 +1,4 @@
-package InterfaceExercicios.services;
+package InterfaceExercicios.SistemaContratos.services;
 
 public class PaypalService implements OnlinePaymentService{
 

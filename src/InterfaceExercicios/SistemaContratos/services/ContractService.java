@@ -1,7 +1,7 @@
-package InterfaceExercicios.services;
+package InterfaceExercicios.SistemaContratos.services;
 
-import InterfaceExercicios.entities.Contract;
-import InterfaceExercicios.entities.Installment;
+import InterfaceExercicios.SistemaContratos.entities.Contract;
+import InterfaceExercicios.SistemaContratos.entities.Installment;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package InterfaceExercicios.services;
+package InterfaceExercicios.SistemaContratos.services;
 
 public interface OnlinePaymentService {
     Double payment_FEE(Double amount);

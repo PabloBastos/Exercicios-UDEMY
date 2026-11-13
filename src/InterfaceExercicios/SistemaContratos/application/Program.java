@@ -1,9 +1,9 @@
-package InterfaceExercicios.application;
+package InterfaceExercicios.SistemaContratos.application;
 
-import InterfaceExercicios.entities.Contract;
-import InterfaceExercicios.entities.Installment;
-import InterfaceExercicios.services.ContractService;
-import InterfaceExercicios.services.PaypalService;
+import InterfaceExercicios.SistemaContratos.entities.Contract;
+import InterfaceExercicios.SistemaContratos.entities.Installment;
+import InterfaceExercicios.SistemaContratos.services.ContractService;
+import InterfaceExercicios.SistemaContratos.services.PaypalService;
 
 import java.text.ParseException;
 import java.time.LocalDate;

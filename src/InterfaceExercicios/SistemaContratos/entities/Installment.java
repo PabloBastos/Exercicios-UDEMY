@@ -1,4 +1,4 @@
-package InterfaceExercicios.entities;
+package InterfaceExercicios.SistemaContratos.entities;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
